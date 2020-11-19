@@ -1,1 +1,1 @@
-{"type":"app","content":"var url='https:\/\/radioonline.vn\/#vov-gt';\nvar win = window.open(url, '_blank');\nwin.focus();\n","icon":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQCLx8otlMW8-dF40stqw60yTVNH5WO4f17hZeAR7V8PZD_Kv1E","width":"800","height":"600","simple":0,"resize":1,"undefined":0}
+{"type":"url","content":"http:\/\/radiovietnamonline.com\/","icon":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQCLx8otlMW8-dF40stqw60yTVNH5WO4f17hZeAR7V8PZD_Kv1E","width":"800","height":"600","simple":0,"resize":1,"undefined":0}
